@@ -8,7 +8,7 @@ The methodology of this application is according to:
 The considered [data](https://github.com/SFStefenon/AutoTFT/blob/main/data.csv) is based on measurements from the automatic hydraulic control of a hydraulic power plant during a flood. In 20 days and 1 h, the level of the dam increased from 20.46% to 86.27%. 
 The recorded data is from a hydraulic power plant located in Pelotas River, Santa Catarina state, Brazil. The measurements were recorded in July 2020, considering a time interval of 1h, corresponding to 481 records. 
 
-In this application, an evaluation of multi-horizon time series forecasting is performed wherein a median term is compared to the short-term forecasting given P-steps ahead:
+In this application, an evaluation of multi-horizon time series forecasting is performed wherein a median term is compared to the short-term forecasting given P-steps ahead: 
 
 ![image](https://github.com/SFStefenon/AutoTFT/assets/88292916/a7692d89-ab25-47b9-9cb0-970acc99e300)
 

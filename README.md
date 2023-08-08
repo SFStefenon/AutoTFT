@@ -1,9 +1,10 @@
 # Hypertuned Temporal Fusion Transformer for Multi-Horizon Time Series Forecasting
 
 This repository presents an application of the automatic hyperparameters tuning temporal fusion transformer (AutoTFT) model for time series forecasting of dam level in a hydroelectric power plant.
-The methodology of this evaluation is given by:
+The methodology of this evaluation is according to:
 
-![image](https://github.com/SFStefenon/AutoTFT/assets/88292916/8ae2a2a9-6d84-49e7-bd1d-67ab35a00bc8)
+![image](https://github.com/SFStefenon/AutoTFT/assets/88292916/3851a691-8810-4fa7-8a16-3bb504b75619)
+
 
 
 

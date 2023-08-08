@@ -12,6 +12,8 @@ In this application, an evaluation of multi-horizon time series forecasting is p
 
 ![image](https://github.com/SFStefenon/AutoTFT/assets/88292916/a7692d89-ab25-47b9-9cb0-970acc99e300)
 
+**Please go ahead and try it on [Google Colab](https://colab.research.google.com/github/SFStefenon/DamLevelHydroelectric/blob/main/Wavelet-Seq2Seq-LSTM-Attention.ipynb)!**
+
 ---
 
 Additional information can be found in the Original Paper:

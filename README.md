@@ -12,6 +12,8 @@ In this application, an evaluation of multi-horizon time series forecasting is p
 
 ![image](https://github.com/SFStefenon/AutoTFT/assets/88292916/a7692d89-ab25-47b9-9cb0-970acc99e300)
 
+---
+
 Additional information can be found at the **[Original Paper]**.
 
 Hypertuned Temporal Fusion Transformer for Multi-Horizon Time Series Forecasting of Dam Level in Hydroelectric Power Plants
@@ -24,4 +26,4 @@ Thank you.
 
 Dr. **Stefano Frizzo Stefenon**
 
-Trento, Italy, March 10, 2023.
+Trento, Italy, August 10, 2023.

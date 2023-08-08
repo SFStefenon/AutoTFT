@@ -5,5 +5,5 @@ The methodology of this application is according to:
 
 ![image](https://github.com/SFStefenon/AutoTFT/assets/88292916/3851a691-8810-4fa7-8a16-3bb504b75619)
 
-The considered data is based on measurements from the automatic hydraulic control of a hydraulic power plant during a flood. In 20 days and 1 h, the level of the dam increased from 20.46% to 86.27%. This situation raises the problem of emergency situations in power plants with dams, and how is necessary for the manager of the power plant to make decisions when it happens.
-Given this task, the recorded data from a hydraulic power plant located in Pelotas River, Santa Catarina state, Brazil, is used to perform a time series forecasting to have the information in advance, and don't face emergency situations. The considered measurements were recorded in July 2020, considering a time interval of 1h, corresponding to 481 records. 
+The considered data is based on measurements from the automatic hydraulic control of a hydraulic power plant during a flood. In 20 days and 1 h, the level of the dam increased from 20.46% to 86.27%. 
+The recorded data is from a hydraulic power plant located in Pelotas River, Santa Catarina state, Brazil. The considered measurements were recorded in July 2020, considering a time interval of 1h, corresponding to 481 records. 

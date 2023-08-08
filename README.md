@@ -14,7 +14,7 @@ In this application, an evaluation of multi-horizon time series forecasting is p
 
 ---
 
-Additional information can be found in the Original Paper.
+Additional information can be found in the Original Paper:
 
 *Hypertuned Temporal Fusion Transformer for Multi-Horizon Time Series Forecasting of Dam Level in Hydroelectric Power Plants*
 

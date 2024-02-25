@@ -16,11 +16,12 @@ In this application, an evaluation of multi-horizon time series forecasting is p
 
 ---
 
-Additional information can be found in the Original Paper:
+Additional information can be found at the **[Original Paper](https://doi.org/10.1016/j.ijepes.2024.109876)**.
 
-*Hypertuned Temporal Fusion Transformer for Multi-Horizon Time Series Forecasting of Dam Level in Hydroelectric Power Plants*
+Stefenon, S. F., Seman, L. O., Silva, L. S. A., Mariani, V. C., Coelho, L. S. Hypertuned temporal fusion transformer for multi-horizon time series forecasting of dam level in hydroelectric power plants, International Journal of Electrical Power & Energy Systems, vol. 157, p. 109876, 2024.
 
-Submitted to **International Journal of Electrical Power & Energy Systems**.
+BibTeX:
+`@article{STEFENON2024109876, author = {Stefano Frizzo Stefenon and Laio Oriel Seman and Luiza Scapinello Aquino da Silva and Viviana Cocco Mariani and Leandro dos Santos Coelho}, title = {Hypertuned temporal fusion transformer for multi-horizon time series forecasting of dam level in hydroelectric power plants}, journal = {International Journal of Electrical Power \& Energy Systems}, volume = {157}, pages = {109876}, year = {2024}, doi = {10.1016/j.ijepes.2024.109876}}`
 
 ---
 
